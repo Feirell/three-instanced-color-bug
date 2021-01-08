@@ -1,0 +1,1 @@
+{"version":3,"sources":["base.css"],"names":[],"mappings":"AAAA,KACI,QAAW,CACX,WAAY,CACZ,YACJ","file":"base.a5be9ed1.css","sourceRoot":"..","sourcesContent":["body {\r\n    margin: 0px;\r\n    width: 100vw;\r\n    height: 100vh;\r\n}"]}
